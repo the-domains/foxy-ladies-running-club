@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Foxy Ladies Running Club]]></title>
+        <description><![CDATA[Foxy Ladies Running Club]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 14:01:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1a93952-1979-4a5a-9050-fac5a40c21c3.jpg">]]></description>
+            <link>undefined3878ec6f-14cb-4cb8-877a-6d4e3c2262a7/index.html</link>
+            <guid isPermaLink="false">3878ec6f-14cb-4cb8-877a-6d4e3c2262a7</guid>
+            <pubDate>Wed, 23 Mar 2016 14:01:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
