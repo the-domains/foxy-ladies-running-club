@@ -1,28 +1,40 @@
-name: Foxy Ladies Running Club
 favicon: null
-layout_spectrum: 0.34093
-typography_spectrum: 0.05145
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Foxy Ladies Running Club
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1875
+  brandStrength: 0.7663089993875474
+  rhythmicContrast: 0.75
   brandColors:
     - '#fdfdfd'
     - '#eb6706'
     - '#1c1c1b'
     - '#92470f'
     - '#f19047'
-  brandStrength: 0.7663089993875474
   lightness: 0.5625
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.05145
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
